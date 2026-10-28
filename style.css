@@ -37,3 +37,7 @@ button {
 button:hover {
     background: #6c3483;
 }
+marquee{
+    background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+    color: #8e44ad;
+}
